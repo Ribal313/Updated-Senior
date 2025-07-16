@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "mqtt.broker.url",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.broker.url'"
+  },
+  {
+    "name": "mqtt.client.id",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.client.id'"
+  },
+  {
+    "name": "mqtt.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.topic'"
+  },
+  {
+    "name": "mqtt.qos",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.qos'"
+  }
+]}
